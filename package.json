@@ -1,0 +1,22 @@
+{
+  "name": "PP_Pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex List showing all Pokemon I catch",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PP37879/PP_Pokedex.git"
+  },
+  "author": "Tanawat Tassana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PP37879/PP_Pokedex/issues"
+  },
+  "homepage": "https://github.com/PP37879/PP_Pokedex#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
